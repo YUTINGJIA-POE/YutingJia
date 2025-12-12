@@ -37,23 +37,6 @@ Email: [yuting.jia@outlook.com](mailto:yuting.jia@outlook.com) · University ema
 
 ---
 
-## Professional Experience & Other Education
-
-- Executive Assistant, Chongqing Chemical Engineering Design and Research Institute (Jul – Aug 2017) — Chongqing, China
-
-- Visiting / Exchange Student, Foundational Educational Theories, Malmö University, Sweden (May 2023)
-
-- Reviewer for Abstracts, BERA Conference 2024 and WERA Focal Meeting (Feb 2024) — University of Manchester, UK
-
-- Reviewer for Papers, North American Association for Philosophy and Education (Jul 2024 – Present) — USA
-
-- Tutor, SF105 / SF106 Multidisciplinary Perspectives of Sustainable Development (Semester 2, 23/24 – Semester 1, 24/25) — University of Strathclyde, Glasgow, UK
-
-- Teaching Assistant, L2108 Politics: Decision Making and Outcomes (Semester 2, 24/25) — University of Strathclyde, Glasgow, UK  
-  - Managing 40 students, preparing materials, delivering lectures, marking assignments, and answering questions
-
----
-
 ## Publications, Works in Progress & Conference Oral Presentations
 
 1. Chang Tung-sheng's Philosophy of Education. International Society of East Asian Philosophy 2023 Conference, Edinburgh, UK (Oral presentation, Sep 2023)  
@@ -67,34 +50,4 @@ Email: [yuting.jia@outlook.com](mailto:yuting.jia@outlook.com) · University ema
 9. Wang Yangming and Pedagogical Tact. Philosophy of Education Society of Great Britain ECR Conference, University College London, UK (Short paper, Sep 2024)  
 10. The modern Chinese educationalist Chang Po-ling 张伯苓 (1876–1951). Short paper — Published in SERA Researching Education Bulletin
 
----
 
-## Honours & Awards
-
-- Faculty of Science Elite Scholarship (2019–2020)  
-- Dean’s International Excellence Award (2020–2021)  
-- Philosophy of Education Society of Great Britain (Small Grant) (2024)  
-- Postgraduate Research Travel Award (2024)  
-- Philosophy of Education Society of Great Britain (ECR Conference Grant) (2024)  
-- British Educational Research Association Conference 2024 (Travel and Accommodation Bursary) (2024)
-
----
-
-## Skills
-
-- Languages: Mandarin (Native), English (Fluent)  
-- Tools: R, Minitab, Microsoft Office, PIM-DEA, SIMUL8
-
----
-
-## Referees
-
-- Karsten Kenklies  
-  School of Education, University of Strathclyde  
-  Senior Lecturer  
-  karsten.kenklies@strath.ac.uk
-
-- David Lewin  
-  School of Education, University of Strathclyde  
-  Senior Lecturer  
-  david.lewin@strath.ac.uk
